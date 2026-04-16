@@ -1,5 +1,4 @@
-{
-  "name": "getting-starter-activity-server",
+{"name": "getting-started-activity-server",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
